@@ -49,7 +49,7 @@ section {
 💼 **Professional experience**
 ======
 
-* **2024 - PRESENT**: Technical nvironmental Service. 
+* **Feb 2024 - PRESENT**: Technical nvironmental Service. 
 
   * **Institution**: Island Council of Gran Canaria.
 
