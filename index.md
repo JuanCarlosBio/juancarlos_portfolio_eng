@@ -23,7 +23,8 @@ My name is <u><strong>Juan Carlos García Estupiñán</strong></u> a Biologist s
 
 If you want to learn more about me and get a more detailed view of my profile, I invite you to read the rest of the content on this website:
 
-* [My Curriculum Vitae (digital version)]()
-* [My Skills]()
-* [My Professional Experience]()
-* [My Projects]()
+* [About me](https://juancarlosbio.github.io/juancarlos_portfolio_eng/about/)
+* [My Curriculum Vitae (digital version)](https://juancarlosbio.github.io/juancarlos_portfolio_eng/cv/)
+* [My Skills](https://juancarlosbio.github.io/juancarlos_portfolio_eng/skills/)
+* [My Professional Experience](https://juancarlosbio.github.io/juancarlos_portfolio_eng/experience/)
+* [My Projects](https://juancarlosbio.github.io/juancarlos_portfolio_eng/projects/)
