@@ -44,7 +44,7 @@ section {
 
 ## <strong>💼 My Professional Experience</strong>:
 
-My academic studies have provided me with job opportunities such as working in the General Research Support Service (SEGAI) at the University of La Laguna (ULL), where I worked as a technician in the animal housing and laboratory. Currently, I am on a secondment in the Environmental Technical Service of the Cabildo of Gran Canaria as a <u>Senior Technician, Graduate in Biology</u>..
+My academic studies have provided me with job opportunities such as working in the General Research Support Service (SEGAI) at the University of La Laguna (ULL), where I worked as a technician in the animal housing and laboratory. Currently, I am on a secondment in the Environmental Technical Service of the Cabildo of Gran Canaria as a <u>Environmental Technician, Graduate in Biology</u>..
 
 ## <strong>What is my professional goal?</strong> 
 

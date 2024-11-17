@@ -49,11 +49,11 @@ section {
 💼 **Professional experience**
 ======
 
-* **2024 - PRESENT**: Technical Envaironmental Service. 
+* **2024 - PRESENT**: Technical nvironmental Service. 
 
   * **Institution**: Island Council of Gran Canaria.
 
-  * **Role**: 🌲 Envaironmental technician / Graduate in Biology.
+  * **Role**: 🌲 Environmental technician / Graduate in Biology.
 
 <p>  </p>
 
