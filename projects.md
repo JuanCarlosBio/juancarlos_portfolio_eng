@@ -50,7 +50,7 @@ section {
 
 </style>
 
-**This are my Projects of Data Analysis** 🚀
+**This are my Data Analysis Projects 🚀** 
 ===
 
 Due to my great interest in computer science, I have developed personal projects focused on data analysis, with a special interest in data of biological origin. This approach has allowed me to acquire practical skills in the management and processing of complex information.

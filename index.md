@@ -27,7 +27,7 @@ section {
 
 </style>
 
-👋 Hello and welcome my website!
+👋 Hello and welcome to my website!
 ===
 
 <center>
@@ -39,7 +39,7 @@ section {
 <p>
 </p>
 
-My name is <u><strong>Juan Carlos García Estupiñán</strong></u> a Biologist specialized in Bioinformatics, passionate about life sciences and the use of new technologies to solve problems. If you're here, you're probably interested in learning more about my professional profile. <u>This is my Portfolio</u>.
+My name is <u><strong>Juan Carlos García Estupiñán</strong></u>, a Biologist specialized in Bioinformatics, passionate about life sciences and the use of new technologies to solve problems. If you're here, you're probably interested in learning more about my professional profile. <u>This is my Portfolio</u>.
 
 
 ### **Learn more about me!**
