@@ -12,25 +12,17 @@ permalink: /cv/
   <img src="https://www.universidadviu.com/sites/universidadviu.com/themes/custom/universidadviu_com/logo.webp" width="100px">
 </div>
 
-**Oficial Master's degree in Bioinformatics, 2023.**
-* Valencian International Universita (VIU)
+**Official Master's degree in Bioinformatics, 2023.**
+* *Valencian International Universita* (VIU)
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2018/04/ull-nuevo-logo-300x177.jpg" width="100px">
 </div>
 
 **Bachelor's degree in Biology, 2022**
-* La Laguna University (Univeridad de La Laguna, ULL).
+* *La Laguna University* (Univeridad de La Laguna, ULL).
 
-<p>
-
-</p>
-
----
-
-<p>
-
-</p>
+<hr style="border: 1px solid #000; margin: 20px 0;">
 
 💼 **Professional experience**
 ======
@@ -66,17 +58,9 @@ As a passionate computer science enthusiast, I have dedicated myself to working 
 * *"Play is the highest form of research." - Albert Einstein*
 * 2021 - Present: Programming and Data Analysis Projects in my GitHub [**GitHub**](https://github.com/JuanCarlosBio)
 
-Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/)
+Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](https://juancarlosbio.github.io/juancarlos_portfolio_eng/projects/)
 
-<p>
-
-</p>
-
----
-
-<p>
-
-</p>
+<hr style="border: 1px solid #000; margin: 20px 0;">
 
 🛠️ **Skills**
 ======
@@ -90,17 +74,9 @@ Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](h
 * Adaptability.
 * Creative person. 
 * Data Analysis / Statistics.
-* Informatic's skills.
+* Programming: Bash,m R, Python..., Git/GitHub, UNIX / Windows and Office software and more.
 
-<p>
-
-</p>
-
----
-
-<p>
-
-</p>
+<hr style="border: 1px solid #000; margin: 20px 0;">
 
 **Other information**
 ===
@@ -108,15 +84,7 @@ Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](h
 * 🚗 <u>Driving license</u> with <u>my own vehicle</u>
 * ✈ Open to relocation
 
-<p>
-
-</p>
-
----
-
-<p>
-
-</p>
+<hr style="border: 1px solid #000; margin: 20px 0;">
 
 **Languages**
 ===
@@ -124,16 +92,7 @@ Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](h
 * 🇪🇸 Spanish: native
 * 🇬🇧 English: C1
 
-<p>
-
-</p>  
-
----
-
-
-<p>
-
-</p>
+<hr style="border: 1px solid #000; margin: 20px 0;">
 
 **Other hobbies**
 ===

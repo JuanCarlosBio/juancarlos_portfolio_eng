@@ -45,13 +45,13 @@ I share my projects, both the highlights and those I'm still learning, in my Git
 
 <hr style="border: 1px solid #000; margin: 20px 0;">
 
-## <u>Island Council of Gran Canaria (Environmental Service)</u> 🥾 
+## **Island Council of Gran Canaria (Environmental Service)** 🥾 
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/GC_mapa.png" width="250px">
 </div>
 
-### Website of Species of the island of Gran Canaria observed 🐜🌱 
+### **Website of Species of the island of Gran Canaria observed** 🐜🌱 
 
 <strong>Description:</strong> This website was created for the observation of species located <i>in situ</i> by taking georeferenced samples through mobile phone photographs. The platform consists of several pages where the species can be observed in viewers, interactive tables and statistics.
 
@@ -74,7 +74,7 @@ Currently, I am focusing on the search for <u>invertebrates and plants</u>, alth
 
 <hr style="border: 1px solid #000; margin: 20px 0;">
 
-### Trails website obtained by the IGN application 🗺️️
+### **Trails website obtained by the IGN application** 🗺️️
 
 **Description**: On this website I share trails obtained in KML format from GPX files generated with the IGN application.
 
@@ -89,7 +89,7 @@ I have developed the workflow, but I am looking to improve the website to optimi
 
 <hr style="border: 1px solid #000; margin: 20px 0;">
 
-### Grids for searching for species (<u>Python</u>) 🌷🐜🔍
+### **Grids for searching for species (<u>Python</u>)** 🌷🐜🔍
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://github.com/JuanCarlosBio/Cuadriculas_Especies/blob/main/images/exampe_portfolio/Captura%20de%20pantalla%202024-10-03%20165837.png?raw=true" width="200px">
@@ -108,9 +108,9 @@ With these layers, spatial analyses of identified species (or other observations
 
 <hr style="border: 1px solid #000; margin: 20px 0;">
 
-## <u>Otros proyectos personales este año</u> 
+## **Otros proyectos personales este año** 
 
-### Estudio de sequía en Canarias (estaciones NOAA) ☀️ ☁️ ☔
+### **Drought study in the Canary Islands (NOAA stations)** ☀️ ☁️ ☔
 
 **Description**: This project is inspired by a YouTube tutorial called  [Riffomonas Project](https://www.youtube.com/@Riffomonas/featured), created by [Patrick Schloss](https://medschool.umich.edu/profile/2341/patrick-d-schloss), a professor at the University of Michigan Medical School. 
 
@@ -133,7 +133,7 @@ Unfortunately, a catastrophe occurs in Asheville on September 28, 2024 due to Hu
 
 <hr style="border: 1px solid #000; margin: 20px 0;">
 
-### DASHBOARD de la meteorología de las Islas Canarias
+### **DASHBOARD de la meteorología de las Islas Canarias**
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://github.com/JuanCarlosBio/meteorologia_canarias/blob/main/plots/newplot.png?raw=true" width="550px">
@@ -155,7 +155,7 @@ Among the applications there is an interactive map of the Canary Islands with th
 
 <hr style="border: 1px solid #000; margin: 20px 0;">
 
-### Sea Turtle Database Analysis using Julia.
+### **Sea Turtle Database Analysis using Julia**
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2023/01/Ifihan-article-cover.png" width="200px">
@@ -176,10 +176,10 @@ In addition, I was introduced to the use of frameworks for WEB development throu
 
 <hr style="border: 1px solid #000; margin: 20px 0;"> 
 
-2023 Projects
+**2023 Projects**
 ===
 
-## <u>Master's Thesis in Bioinformatics (VIU)</u>🧬 👨‍💻 📈
+### <u>Master's Thesis in Bioinformatics (VIU)</u> 🧬 👨‍💻 📈
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://snakemake.readthedocs.io/en/stable/_static/logo-snake.svg" width="150px">
@@ -196,7 +196,7 @@ In addition, I was introduced to the use of frameworks for WEB development throu
 
 <hr style="border: 1px solid #000; margin: 20px 0;">
 
-## <u>Other subjects of the master's degree (2023)</u> 🧬 👨‍💻 📈
+### **Other subjects of the master's degree (2023)** 🧬 👨‍💻 📈
 
 ### Transncryptomics Activities (VIU)
 
@@ -210,10 +210,10 @@ In addition, I was introduced to the use of frameworks for WEB development throu
 
 <hr style="border: 1px solid #000; margin: 20px 0;">
 
- 2022 Projects
+2022 Projects
 ===
 
-## Other subjects of the master's degree (2022) 🧬 👨‍💻 📈
+### **Other subjects of the master's degree (2022)** 🧬 👨‍💻 📈
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://media.licdn.com/dms/image/v2/D4D12AQEz33xZKsngrw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1685213382501?e=1732752000&v=beta&t=oM6a_TEeZpZq4-IHTMnL3N0zZ2uCXgwsLqWHrVRtjjY" width="150px">
@@ -250,7 +250,7 @@ It is worth noting that I also specialized in the *<u>Linux Operating System</u>
 
 <hr style="border: 1px solid #000; margin: 20px 0;">
 
-## Final Degree Project in Biology 
+### **Final Degree Project in Biology** 
 
 ### *Statistical analysis of stranded sea turtles in Tenerife, Canary Islands* 
 
@@ -280,7 +280,7 @@ In addition, I taught myself how to use Git and GitHub for version control, stor
 2021 Projects
 ===
 
-### Fourth Year Subjects of the Degree in Biology at ULL
+### **Fourth Year Subjects of the Degree in Biology at ULL**
 
 I taught myself programming to analyse data from my final year of college. I started with the R programming language , and I still have the code used for the analyses. I have also used it to experiment and apply new knowledge, making modifications and exploring different approaches.
 
