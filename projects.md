@@ -13,7 +13,7 @@ permalink: /projects/
     text-align: center;
     text-decoration: none;
     outline: none;
-    color: #000000;
+    color: #ededed000;
     background-color: #ffffff;
     border: 2px solid #d6d6d6;;
     border-radius: 12px;
@@ -62,7 +62,7 @@ I share my projects, both the highlights and those I'm still learning, in my Git
 
 <p> </p>
 
-<hr style="border: 1px solid #000; margin: 20px 0;">
+<hr style="border: 1px solid #ededed; margin: 20px 0;">
 
 ## **Island Council of Gran Canaria (Environmental Service)** 🥾 
 
@@ -93,7 +93,7 @@ Currently, I am focusing on the search for <u>invertebrates and plants</u>, alth
 <button class="button" onclick="window.location.href='https://juancarlosbio.github.io/BiodiversidadGJC/'">🌐 <strong><u>Website</u></strong></button>
 </div>
 
-<hr style="border: 1px solid #000; margin: 20px 0;">
+<hr style="border: 1px solid #ededed; margin: 20px 0;">
 
 ### **Trails website obtained by the IGN application** 🗺️️
 
@@ -108,7 +108,7 @@ I have developed the workflow, but I am looking to improve the website to optimi
 <button class="button" onclick="window.location.href='https://juancarlosbio.github.io/Salidas_de_Campo_CabildoGC/'">🌐 <strong><u>Website</u></strong></button>
 </div>
 
-<hr style="border: 1px solid #000; margin: 20px 0;">
+<hr style="border: 1px solid #ededed; margin: 20px 0;">
 
 ### **Grids for searching for species (<u>Python</u>)** 🌷🐜🔍
 
@@ -127,7 +127,7 @@ With these layers, spatial analyses of identified species (or other observations
 <button class="button" onclick="window.location.href='https://juancarlosbio.github.io/Cuadriculas_Especies/'">🌐 <strong><u>Website</u></strong></button>
 </div>
 
-<hr style="border: 1px solid #000; margin: 20px 0;">
+<hr style="border: 1px solid #ededed; margin: 20px 0;">
 
 ## **Otros proyectos personales este año** 
 
@@ -154,7 +154,7 @@ Unfortunately, a catastrophe occurs in Asheville on September 28, 2024 due to Hu
 <button class="button" onclick="window.location.href='https://juancarlosbio.github.io/tiempo_canarias_noaa/'">🌐 <strong><u>Website</u></strong></button>
 </div>
 
-<hr style="border: 1px solid #000; margin: 20px 0;">
+<hr style="border: 1px solid #ededed; margin: 20px 0;">
 
 ### **DASHBOARD de la meteorología de las Islas Canarias**
 
@@ -176,7 +176,7 @@ Among the applications there is an interactive map of the Canary Islands with th
 </div>
 
 
-<hr style="border: 1px solid #000; margin: 20px 0;">
+<hr style="border: 1px solid #ededed; margin: 20px 0;">
 
 ### **Sea Turtle Database Analysis using Julia**
 
@@ -197,7 +197,7 @@ In addition, I was introduced to the use of frameworks for WEB development throu
 <button class="button" onclick="window.location.href='https://juancarlosbio.github.io/turtles_julia_analysis/'">🌐 <strong><u>Website</u></strong></button>
 </div>
 
-<hr style="border: 1px solid #000; margin: 20px 0;"> 
+<hr style="border: 1px solid #ededed; margin: 20px 0;"> 
 
 **2023 Projects**
 ===
@@ -217,7 +217,7 @@ In addition, I was introduced to the use of frameworks for WEB development throu
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/TFM'">📚 <strong><u>GitHub Repository</u></strong></button>
 </div>
 
-<hr style="border: 1px solid #000; margin: 20px 0;">
+<hr style="border: 1px solid #ededed; margin: 20px 0;">
 
 ### **Other subjects of the master's degree (2023)** 🧬 👨‍💻 📈
 
@@ -231,7 +231,7 @@ In addition, I was introduced to the use of frameworks for WEB development throu
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/RNA-Seq_VIU'">📚 <strong><u>GitHub Repository</u></strong></button>
 </div>
 
-<hr style="border: 1px solid #000; margin: 20px 0;">
+<hr style="border: 1px solid #ededed; margin: 20px 0;">
 
 **2022 Projects**
 ===
@@ -252,7 +252,7 @@ In addition, I was introduced to the use of frameworks for WEB development throu
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Programacion_Python_R'">📚 <strong><u>GitHub Repository</u></strong></button>
 </div>
 
-<hr style="border: 1px solid #000; margin: 20px 0;">
+<hr style="border: 1px solid #ededed; margin: 20px 0;">
 
 ### Shell Scripting / BASH Programming Activities (VIU)
 
@@ -271,7 +271,7 @@ It is worth noting that I also specialized in the *<u>Linux Operating System</u>
 </div>
 
 
-<hr style="border: 1px solid #000; margin: 20px 0;">
+<hr style="border: 1px solid #ededed; margin: 20px 0;">
 
 ### **Final Degree Project in Biology** 
 
@@ -298,7 +298,7 @@ In addition, I taught myself how to use Git and GitHub for version control, stor
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Tortugas_La_Tahonilla'">📚 <strong><u>GitHub Repository</u></strong></button>
 </div>
 
-<hr style="border: 1px solid #000; margin: 20px 0;"> 
+<hr style="border: 1px solid #ededed; margin: 20px 0;"> 
 
 2021 Projects
 ===

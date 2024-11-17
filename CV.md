@@ -44,7 +44,7 @@ section {
 **Bachelor's degree in Biology, 2022**
 * *La Laguna University* (Univeridad de La Laguna, ULL).
 
-<hr style="border: 1px solid #000; margin: 20px 0;">
+<hr style="border: 1px solid #ededed; margin: 20px 0;">
 
 💼 **Professional experience**
 ======
@@ -82,7 +82,7 @@ As a passionate computer science enthusiast, I have dedicated myself to working 
 
 Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](https://juancarlosbio.github.io/juancarlos_portfolio_eng/projects/)
 
-<hr style="border: 1px solid #000; margin: 20px 0;">
+<hr style="border: 1px solid #ededed; margin: 20px 0;">
 
 🛠️ **Skills**
 ======
@@ -98,7 +98,7 @@ Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](h
 * Data Analysis / Statistics.
 * Programming: Bash,m R, Python..., Git/GitHub, UNIX / Windows and Office software and more.
 
-<hr style="border: 1px solid #000; margin: 20px 0;">
+<hr style="border: 1px solid #ededed; margin: 20px 0;">
 
 **Other information**
 ===
@@ -106,7 +106,7 @@ Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](h
 * 🚗 <u>Driving license</u> with <u>my own vehicle</u>
 * ✈ Open to relocation
 
-<hr style="border: 1px solid #000; margin: 20px 0;">
+<hr style="border: 1px solid #ededed; margin: 20px 0;">
 
 **Languages**
 ===
@@ -114,7 +114,7 @@ Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](h
 * 🇪🇸 Spanish: native
 * 🇬🇧 English: C1
 
-<hr style="border: 1px solid #000; margin: 20px 0;">
+<hr style="border: 1px solid #ededed; margin: 20px 0;">
 
 **Other hobbies**
 ===
