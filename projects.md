@@ -29,6 +29,19 @@ permalink: /projects/
     box-shadow: 0 3px #666;
     transform: translateY(2px);
 }
+
+.body {
+    max-width: 100%;
+    margin: 0 auto;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.wrapper {
+  width:860px;
+  margin:0 auto;
+}
+
 </style>
 
 **This are my Projects of Data Analysis** 🚀
@@ -62,7 +75,9 @@ Currently, I am focusing on the search for <u>invertebrates and plants</u>, alth
 * Workflows management (Snakemake).
 * Big Data (SITECAN, Biota...).
 * Web development.
-* Biology: fieldwork, identification of species.
+* Conda package manager.
+* GIS viewers.
+* Biology: fieldwork, of species identification.
 * Data analysis, spacial data analysis.
 
 <p align="center"><u><i>Visit the project at:</i></u></p>
@@ -110,7 +125,9 @@ With these layers, spatial analyses of identified species (or other observations
 
 ## **Otros proyectos personales este año** 
 
-### **Drought study in the Canary Islands (NOAA stations)** ☀️ ☁️ ☔
+### **Drought study in the Canary Islands (NOAA stations)** 
+
+☀️ ☁️ ☔
 
 **Description**: This project is inspired by a YouTube tutorial called  [Riffomonas Project](https://www.youtube.com/@Riffomonas/featured), created by [Patrick Schloss](https://medschool.umich.edu/profile/2341/patrick-d-schloss), a professor at the University of Michigan Medical School. 
 
@@ -210,7 +227,7 @@ In addition, I was introduced to the use of frameworks for WEB development throu
 
 <hr style="border: 1px solid #000; margin: 20px 0;">
 
-2022 Projects
+**2022 Projects**
 ===
 
 ### **Other subjects of the master's degree (2022)** 🧬 👨‍💻 📈
