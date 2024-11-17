@@ -17,7 +17,7 @@ permalink: /skills/
 
 </p>
 
-### 🥼 <u>Laboratory techniques applied to biology</u>
+### 🥼 <strong>Laboratory techniques applied to biology</strong>
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://plus.unsplash.com/premium_photo-1661306499492-297866c7f2a0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmlvbG9neSUyMGxhYnxlbnwwfHwwfHx8MA%3D%3D" width="200px">
@@ -37,7 +37,7 @@ These skills enable me to work in the healthcare, pharmaceutical, industrial and
 
 </p>
 
-### 🥾 <u>Techniques for environmental management and planning</u>
+### 🥾 <strong>Techniques for environmental management and planning</strong>
 
 <div style="float: left; margin-right: 20px;">
   <img src="https://img.freepik.com/vector-gratis/salva-concepto-planeta-personas-que-cuidan-tierra_23-2148522570.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1727568000&semt=ais_hybrid"
@@ -58,7 +58,7 @@ This has enabled me to carry out environmental impact assessments, diagnose envi
 
 </p>
 
-### 💡 <u>Scientific vision: critical thinking</u> 
+### 💡 <strong>Scientific vision: critical thinking</strong> 
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://cdn-icons-png.flaticon.com/512/2755/2755549.png"
@@ -77,7 +77,7 @@ One of the key skills in scientific training is critical thinking, developed thr
 
 </p>
 
-### <u>Self-learning in 👨‍💻 Computer Science and 📈 Data Analytics</u> 
+### <strong>Self-learning in 👨‍💻 Computer Science and 📈 Data Analytics</strong> 
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://cromospharma.com/wp-content/uploads/2022/09/Web-Biostatistics.jpg"
@@ -104,7 +104,7 @@ So I decided to teach myself programming and data analysis, essential skills for
 
 </p>
 
-### <u>Transversal knowledge</u>
+### <strong>Transversal knowledge</strong>
 
 My background in science has provided me with solid skills in communication, searching and interpreting complex information, as well as in the use of office tools. These skills allow me to be a reliable and versatile professional in various sectors such as finance, trade and product marketing, as well as in the IT field.
 
@@ -116,7 +116,7 @@ My background in science has provided me with solid skills in communication, sea
 
 </p>
 
-## 👨‍💻 My skills as a Bioinformatics specialist
+## 👨‍💻 <strong>My skills as a Bioinformatics specialist</strong> 
 
 <div style="float: left; margin-right: 20px;">
   <img src="https://summercamps.dnalc.org/images/biocoding.jpg"
@@ -139,7 +139,7 @@ Although bioinformatics focuses on biological data, the methodologies and techno
 
 </p>
 
-## 💼 My Skills as a Professional
+## 💼 <strong>My Skills as a Professional</strong> 
 
 To learn how I have applied my knowledge in the workplace, I invite you to visit the page about my ➡️ [professional experience](https://juancarlosbio.github.io/juancarlos_portfolio_esp//experiencia/) 
 
