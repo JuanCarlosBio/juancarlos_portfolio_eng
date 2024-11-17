@@ -30,15 +30,21 @@ permalink: /projects/
     transform: translateY(2px);
 }
 
-.body {
+body {
     max-width: 100%;
     margin: 0 auto;
     font-size: 1rem;
     line-height: 1.6;
 }
 
+section {
+  width:700px;
+  float:right;
+  padding-bottom:50px;
+}
+
 .wrapper {
-  width:860px;
+  width:960px;
   margin:0 auto;
 }
 
