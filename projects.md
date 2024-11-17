@@ -136,7 +136,7 @@ Unfortunately, a catastrophe occurs in Asheville on September 28, 2024 due to Hu
 ### **DASHBOARD de la meteorología de las Islas Canarias**
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://github.com/JuanCarlosBio/meteorologia_canarias/blob/main/plots/newplot.png?raw=true" width="550px">
+  <img src="https://github.com/JuanCarlosBio/meteorologia_canarias/blob/main/plots/newplot.png?raw=true" width="350px">
 </div>
 
 I have created a DASHBOARD to analyse the variation of the variables of <u>temperature and accumulated precipitation</u>, provided by **the Meteorological Observation System of the Canary Islands** (public data from SITCAN)  to see how it evolves in the coming years. As in other projects to automate the downloading of data and its processing, I use tools such as GitHub Actions and GitHub Pages.
