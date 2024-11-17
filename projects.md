@@ -1,8 +1,8 @@
-<hr style="border: 1px solid #000; margin: 20px 0;">
+---
 layout: page
 title: Projects
 permalink: /projects/
-<hr style="border: 1px solid #000; margin: 20px 0;">
+---
 
 <style>
 .button {

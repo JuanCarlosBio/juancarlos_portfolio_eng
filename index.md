@@ -25,6 +25,5 @@ If you want to learn more about me and get a more detailed view of my profile, I
 
 * [About me](https://juancarlosbio.github.io/juancarlos_portfolio_eng/about/)
 * [My Curriculum Vitae (digital version)](https://juancarlosbio.github.io/juancarlos_portfolio_eng/cv/)
-* [My Skills](https://juancarlosbio.github.io/juancarlos_portfolio_eng/skills/)
-* [My Professional Experience](https://juancarlosbio.github.io/juancarlos_portfolio_eng/experience/)
-* [My Projects](https://juancarlosbio.github.io/juancarlos_portfolio_eng/projects/)
+* [My professional experience](https://juancarlosbio.github.io/juancarlos_portfolio_eng/experience/)
+* [My projects](https://juancarlosbio.github.io/juancarlos_portfolio_eng/projects/)

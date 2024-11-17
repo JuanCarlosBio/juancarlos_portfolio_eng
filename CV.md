@@ -81,7 +81,7 @@ Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](h
 🛠️ **Skills**
 ======
 
-* Proactive and with Iniciative. 
+* Proactive and Iniciative. 
 * Eager to learn new things. 
 * Committed to the role. 
 * Comunication. 
@@ -91,8 +91,6 @@ Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](h
 * Creative person. 
 * Data Analysis / Statistics.
 * Informatic's skills.
-
-If you want to get deeper in my <u>specific skills</u>, go to the page [**<i>"Skills"</i>**](https://juancarlosbio.github.io/juancarlos_portfolio_esp//habilidades/)
 
 <p>
 
