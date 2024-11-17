@@ -4,6 +4,22 @@
 layout: default
 ---
 
+<style>
+
+.body {
+    max-width: 100%;
+    margin: 0 auto;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.wrapper {
+  width:860px;
+  margin:0 auto;
+}
+
+</style>
+
 👋 Hello and welcome my website!
 ===
 

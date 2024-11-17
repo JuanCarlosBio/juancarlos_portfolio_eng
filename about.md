@@ -4,6 +4,22 @@ title: About me!
 permalink: /about/
 ---
 
+<style>
+
+.body {
+    max-width: 100%;
+    margin: 0 auto;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.wrapper {
+  width:860px;
+  margin:0 auto;
+}
+
+</style>
+
 <div style="float: right; margin-left: 20px;">
   <img src="https://github.com/JuanCarlosBio/juancarlos_portfolio_esp/blob/master/images/foto_perfil3.jpg?raw=true" height="300px">
   <figcaption style="font-size: 12px;" align="center">Adventures in Tamadaba.</figcaption>

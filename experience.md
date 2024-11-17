@@ -4,6 +4,22 @@ title: Experience
 permalink: /experience/
 ---
 
+<style>
+
+.body {
+    max-width: 100%;
+    margin: 0 auto;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.wrapper {
+  width:860px;
+  margin:0 auto;
+}
+
+</style>
+
 <strong>Feb 2024 - PRESENT Island Council of Gran Canaria</strong>
 ===
 
@@ -16,7 +32,7 @@ I have currently been offered a one-year employment contract at the <u><strong>I
 ## **Job duties and skills**:
 
 <div style="float: left; margin-right: 20px;">
-  <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/profile2.png" width="270px">
+  <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/profile2.png" width="200px">
   <figcaption style="font-size: 12px;" align="center">Adventures in Azuaje</figcaption>
 </div>
 
@@ -56,7 +72,7 @@ Among the software I have used to study spatial data are:
 My first experience as a professional was as a <u><strong>table - animal facility technician</strong></u> 🐁 at the SEGAI of La Laguna.
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/foto%20segai.jpg" width="190px">
+  <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/foto%20segai.jpg" width="170px">
   <figcaption style="font-size: 12px;" align="center">Primera experiencia en el SEGAI.</figcaption>
 </div>
 

@@ -4,6 +4,15 @@ title: Resumé
 permalink: /cv/
 ---
 
+<style>
+
+.wrapper {
+  width:860px;
+  margin:0 auto;
+}
+
+</style>
+
 ### 📋 **This is the digital version of my *<u>Curriculum Vitae</u>***
 
 🎓 **Education**
