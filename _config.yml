@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Juan Carlos García Estupiñán
 email: jcge97@gmail.com
-description: This is my Portfolio, a website where a talk about my skills, professional experience and my projects.
+description: This is my Portfolio, a website where i showcase my skills, professional experience and my projects.
 baseurl: "juancarlos_portfolio_eng" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: JuanCarlosBio
