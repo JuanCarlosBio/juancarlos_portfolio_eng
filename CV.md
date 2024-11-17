@@ -4,6 +4,7 @@ title: Resumé
 permalink: /cv/
 ---
 
+### 📋 **This is the digital version of my *<u>Curriculum Vitae</u>***
 
 🎓 **Education**
 ======
@@ -12,14 +13,14 @@ permalink: /cv/
 </div>
 
 **Oficial Master's degree in Bioinformatics, 2023.**
-* From Valencian International Universita (VIU)
+* Valencian International Universita (VIU)
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2018/04/ull-nuevo-logo-300x177.jpg" width="100px">
 </div>
 
 **Bachelor's degree in Biology, 2022**
-* From La Laguna University (Univeridad de La Laguna, ULL).
+* La Laguna University (Univeridad de La Laguna, ULL).
 
 <p>
 

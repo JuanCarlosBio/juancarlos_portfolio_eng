@@ -11,12 +11,12 @@ permalink: /experience/
   <img src="https://pbs.twimg.com/profile_images/1561716451173621760/kLELmYdp_400x400.jpg" width="100px">
 </div>
 
-I have currently been offered a one-year employment contract at the <u><strong>Cabildo Insular de Gran Canaria</strong></u>, in the <u><strong>Environmental Technical Service</strong></u> thanks to the opportunity provided by the New Employment Opportunities (NOE) project. Specifically, my position is <u><strong>Environmental Technician, Graduate in Biology.</strong></u>
+I have currently been offered a one-year employment contract at the <u><strong>Island Council of Gran Canaria</strong></u>, in the <u><strong>Environmental Technical Service</strong></u> thanks to the opportunity provided by the New Employment Opportunities (NOE) project. Specifically, my position is <u><strong>Environmental Technician, Graduate in Biology.</strong></u>
 
 ## **Job duties and skills**:
 
 <div style="float: left; margin-right: 20px;">
-  <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/profile2.png" width="250px">
+  <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/profile2.png" width="270px">
   <figcaption style="font-size: 12px;" align="center">Adventures in Azuaje</figcaption>
 </div>
 
@@ -60,7 +60,7 @@ My first experience as a professional was as a <u><strong>table - animal facilit
   <figcaption style="font-size: 12px;" align="center">Primera experiencia en el SEGAI.</figcaption>
 </div>
 
-## <strong>Labores y habilidades del oficio</strong>:
+## <strong>Job duties and skills</strong>:
 
 **Maintenance and care of animals**, including breeding of rats and mice, changing cages and administering medication, always strictly following animal welfare protocols. 
 

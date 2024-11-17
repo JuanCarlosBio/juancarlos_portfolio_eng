@@ -7,7 +7,15 @@ permalink: /skills/
 
 # 👨‍🔬 My specific skills during the Biology degree
 
+<p>
+
+</p>
+
 ---
+
+<p>
+
+</p>
 
 ### 🥼 <u>Laboratory techniques applied to biology</u>
 
@@ -19,31 +27,55 @@ During my training in biology, I gained experience in biochemical techniques, mo
 
 These skills enable me to work in the healthcare, pharmaceutical, industrial and research sectors.
 
+<p>
+
+</p>
+
 ---
+
+<p>
+
+</p>
 
 ### 🥾 <u>Techniques for environmental management and planning</u>
 
 <div style="float: left; margin-right: 20px;">
   <img src="https://img.freepik.com/vector-gratis/salva-concepto-planeta-personas-que-cuidan-tierra_23-2148522570.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1727568000&semt=ais_hybrid"
- width="200px">
+ width="150px">
 </div>
 
 My training covers geology, soil science, zoology, botany and ecology, which allows me to interpret, plan and design the territory and the landscape.
 
 This has enabled me to carry out environmental impact assessments, diagnose environmental problems and propose effective solutions, helping to mitigate risks in a constantly changing environment.
 
+<p>
+
+</p>
+
 ---
+
+<p>
+
+</p>
 
 ### 💡 <u>Scientific vision: critical thinking</u> 
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://cdn-icons-png.flaticon.com/512/2755/2755549.png"
- width="100px">
+ width="70px">
 </div>
 
 One of the key skills in scientific training is critical thinking, developed through the rigorous use of the scientific method. This ability facilitates the identification and resolution of problems, being a valuable tool for technical profiles in any sector.
 
+<p>
+
+</p>
+
 ---
+
+<p>
+
+</p>
 
 ### <u>Self-learning in 👨‍💻 Computer Science and 📈 Data Analytics</u> 
 
@@ -62,13 +94,27 @@ During my senior year of college, I realized the importance of standing out in s
 
 So I decided to teach myself programming and data analysis, essential skills for the 21st century. This learning has broadened my perspective and provided me with new professional opportunities.
 
+<p>
+
+</p>
+
 ---
+
+<p>
+
+</p>
 
 ### <u>Transversal knowledge</u>
 
 My background in science has provided me with solid skills in communication, searching and interpreting complex information, as well as in the use of office tools. These skills allow me to be a reliable and versatile professional in various sectors such as finance, trade and product marketing, as well as in the IT field.
 
+
+
 ---
+
+<p>
+
+</p>
 
 ## 👨‍💻 My skills as a Bioinformatics specialist
 
@@ -83,7 +129,15 @@ I delved into Big Data analysis, working with DNA and protein sequences in diffe
 
 Although bioinformatics focuses on biological data, the methodologies and technologies I have acquired (such as Git, Conda, Snakemake) are applicable to other Data Science projects. You can explore some of the projects I have worked go to the page of ➡️ [my projects](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/).
 
+<p>
+
+</p>
+
 ---
+
+<p>
+
+</p>
 
 ## 💼 My Skills as a Professional
 
