@@ -1,7 +1,17 @@
-/* Aumentar el ancho del texto */
+/* Adjust the width of the main content container */
+.container, .content, .main {
+    max-width: 1000px;  /* Increase this to make the content wider */
+    width: 900%;  /* Ensure the content stretches across the page */
+    margin: 0 auto;  /* Center the content */
+}
+
+/* Optional: Remove or adjust padding to make it more spacious */
+.container, .content, .main {
+    padding-left: 15px;  /* Adjust this value as needed */
+    padding-right: 15px; /* Adjust this value as needed */
+}
+
+/* Ajustar el tamaño de la fuente globalmente */
 body {
-    max-width: 100%;
-    margin: 0 auto;
-    font-size: 1rem;
-    line-height: 1.6;
+    font-size: 16px;  /* Establece el tamaño de la fuente a 18px */
 }

@@ -2,28 +2,13 @@
 layout: page
 title: Resumé
 permalink: /cv/
+show_header: false
 ---
 
-<style>
-body {
-    max-width: 100%;
-    margin: 0 auto;
-    font-size: 1rem;
-    line-height: 1.6;
+<style type="text/css">
+.page-header h1 {
+    display: none;
 }
-
-section {
-  width:700px;
-  float:right;
-  padding-bottom:50px;
-}
-
-.wrapper {
-  width:960px;
-  margin:0 auto;
-}
-
-
 </style>
 
 ### 📋 **This is the digital version of my *<u>Curriculum Vitae</u>***
@@ -87,16 +72,51 @@ Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](h
 🛠️ **Skills**
 ======
 
-* Proactive and Iniciative. 
-* Eager to learn new things. 
-* Committed to the role. 
-* Comunication. 
-* Teamwork.
-* Problem thinker/solver.
-* Adaptability.
-* Creative person. 
-* Data Analysis / Statistics.
-* Programming: Bash,m R, Python..., Git/GitHub, UNIX / Windows and Office software and more.
+<table style="border: 1px solid #fdfdfd; border-collapse: collapse">
+ <tr>
+    <td style="border: 1px solid #fdfdfd; background-color: #fdfdfd;"><b style="font-size:20px">Soft skills</b></td>
+    <td style="border: 1px solid #fdfdfd; background-color: #fdfdfd;"><b style="font-size:20px">Technical skills</b></td>
+ </tr>
+ <tr>
+    <td style="border: 1px solid #fdfdfd; background-color: #fdfdfd;">
+        <ul>
+            <li>Proactive and self-motivated</li>
+            <li>Eager to learn</li>
+            <li>Self-taught</li>
+            <li>Resilient</li>
+            <li>Committed</li>
+            <li>Communication</li>
+            <li>Teamwork</li>
+            <li>Problem solving</li>
+            <li>Adaptability</li>
+            <li>Creativity</li>
+            <li>Critical thinking</li>
+        </ul>
+    </td>
+    <td style="border: 1px solid #fdfdfd; background-color: #fdfdfd;">
+        <ul>
+            <li>Python, R, Bash, others to a lesser extent (HTML, CSS...)</li>
+            <li>Git and GitHub</li>
+            <li>UNIX-based operating systems</li>
+            <li>Automation</li>
+            <li>Data science, visualization</li>
+            <li>Next Generation Sequencing (NGS)</li>
+            <li>Spatial data (KML, SHP, GPX...)</li>
+            <li>Viewers: Genomic (IGV) and GIS (QGIS, ArcGIS, others)</li>
+            <li>Web development</li>
+            <li>Office software (Excel, Word)</li>
+            <li>Environment</li>
+            <li>Fieldwork</li>
+            <li>Species identification <i>in situ</i></li>
+            <li>Writing technical reports</li>
+        </ul>
+    </td>
+ </tr>
+</table>
+
+<p style="font-size:16px; margin-top:20px; color:gray;">
+🧳 The truth is, it's been an interesting journey.🚀
+</p>
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 

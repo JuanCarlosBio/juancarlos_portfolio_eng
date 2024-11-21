@@ -2,33 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
+title: 👋 Hello and welcome to my website!
 ---
 
-<style>
-
-body {
-    max-width: 100%;
-    margin: 0 auto;
-    font-size: 1rem;
-    line-height: 1.6;
-}
-
-section {
-  width:700px;
-  float:right;
-  padding-bottom:50px;
-}
-
-.wrapper {
-  width:960px;
-  margin:0 auto;
-}
-
-
-</style>
-
-👋 Hello and welcome to my website!
-===
 
 <center>
 <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/Foto_Juan_Carlos.png" 
