@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resumé
+title: My CV
 permalink: /cv/
 show_header: false
 ---
