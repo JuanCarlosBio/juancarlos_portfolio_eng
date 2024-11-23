@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me!
+title: About me
 permalink: /about/
 ---
 
@@ -11,6 +11,7 @@ body {
     margin: 0 auto;
     font-size: 1rem;
     line-height: 1.6;
+    color: #555555;
 }
 
 section {

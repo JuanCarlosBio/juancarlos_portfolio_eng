@@ -5,10 +5,16 @@ permalink: /cv/
 show_header: false
 ---
 
-<style type="text/css">
-.page-header h1 {
-    display: none;
+<style>
+
+body {
+    max-width: 100%;
+    margin: 0 auto;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #555555;
 }
+
 </style>
 
 ### 📋 **This is the digital version of my *<u>Curriculum Vitae</u>***

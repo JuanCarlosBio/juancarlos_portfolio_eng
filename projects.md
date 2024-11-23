@@ -35,6 +35,7 @@ body {
     margin: 0 auto;
     font-size: 1rem;
     line-height: 1.6;
+    color: #555555;
 }
 
 section {
@@ -57,7 +58,7 @@ Due to my great interest in computer science, I have developed personal projects
 
 I share my projects, both the highlights and those I'm still learning, in my GitHub repository, which allows me to document and reflect my technical evolution and continuous learning.
 
-2024 Projects
+**2024 Projects**
 ===
 
 <p> </p>
@@ -77,14 +78,15 @@ I share my projects, both the highlights and those I'm still learning, in my Git
 Currently, I am focusing on the search for <u>invertebrates and plants</u>, although I do not rule out including other organisms in the future.
 
 **Some skills**:
-* Programming: Python, R, Bash, JavaScript (basic), CSS (basic), HTML.
-* Workflows management (Snakemake).
+* Programming: Python, R, Bash, JavaScript,  CSS, HTML.
+* Workflows management systems (SNAKEMAKE).
 * Big Data (SITECAN, Biota...).
-* Web development.
+* Web development, maintenance, debbuging (a lot of debbuging 😢… I love it).
 * Conda package manager.
+* Git and GitHub (GitHub Actions, GitHub Pages)
 * GIS viewers.
 * Biology: fieldwork, of species identification.
-* Data analysis, spacial data analysis.
+* Data analysis, and Data Visualization of biological and spatial data.
 
 <p align="center"><u><i>Visit the project at:</i></u></p>
 
@@ -210,6 +212,15 @@ In addition, I was introduced to the use of frameworks for WEB development throu
 
 **Description**: This project consisted in developing a workflow for <u>bioinformatics analysis of Next Generation Sequencing</u> using the software [SNAKEMAKE](https://snakemake.github.io/), a workflow manager based on GNUmake. Snakemake is ideal for automating and reproducing bioinformatics processes, standing out for its syntax in Python, which facilitates its learning and understanding. 
 
+* Programming: Python, R, Bash.
+* Workflows management systems (SNAKEMAKE), self learned myself reading the documentation.
+* Tasks automation.
+* Big Data (**Next Generation Sequencing**).
+* Conda package manager.
+* Genomic Sequencings (FastQC, FastP, Alineamiento Bwa…)
+* Managment of Bioinformatics type files (FASTQ, SAM, BAM, VCF).
+* Genómic viewers: Integrative Genomics Viewer (IGV).
+* Data analysis and Data Visualization.
 
 <p align="center"><u><i>Visit the project at:</i></u></p>
 
@@ -279,7 +290,7 @@ It is worth noting that I also specialized in the *<u>Linux Operating System</u>
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/tahonilla_tortugas.jpg" width="250px">
-    <figcaption style="font-size: 12px;" align="center">Visita para ver las tortugas en La Tahonilla.</figcaption>
+    <figcaption style="font-size: 12px;" align="center">Visit to the Tahonilla Animal Center.</figcaption>
 </div>
 
 **Description**: After teaching myself to program in R, I put my skills to the test by analyzing a database of stranded sea turtles, provided by the La Tahonilla Wildlife Recovery Center of the Cabildo de Tenerife.
@@ -288,19 +299,26 @@ This project allowed me to demonstrate skills in programming, statistical analys
 
 In addition, I taught myself how to use Git and GitHub for version control, storing my code and sharing it with my tutor and the board.
 
-<p align="center">
-<img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/tahonilla.jpg" width="270px">
-</p>
+**Some skills that i learned:**
+* Learned programming by myself: **R**.
+* Biostatistics.
+* Unsupervised Machine Learning
+* Time Series Models (SARIMA).
+* Data analysis, and Data Visualization
+* Git and GitHub.
 
 <p align="center"><u><i>Visit the project at:</i></u></p>
 
-<div style="text-align: center;">
+<center>
+
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Tortugas_La_Tahonilla'">📚 <strong><u>GitHub Repository</u></strong></button>
 </div>
 
+</center>
+
 <hr style="border: 1px solid #ededed; margin: 20px 0;"> 
 
-2021 Projects
+**2021 Projects**
 ===
 
 ### **Fourth Year Subjects of the Degree in Biology at ULL**

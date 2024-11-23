@@ -6,11 +6,12 @@ permalink: /experience/
 
 <style>
 
-.body {
+body {
     max-width: 100%;
     margin: 0 auto;
     font-size: 1rem;
     line-height: 1.6;
+    color: #555555;
 }
 
 .wrapper {
@@ -44,11 +45,11 @@ The main task of the position is public management through the drafting of techn
 
 It is often necessary to go *in situ* of the places, to check the interventions to be carried out and to get a better idea of ​​what is intended to be done. In this way, I have learned the importance of attention to detail required as a technician, as well as the value of communication with other teammates and with the requesters themselves.
 
-### 💻 **Habilidades que he desarrollado como complemento**:
+### 💻 **Skills that I have developed as a complement**:
 
-<u><i>Análisis de datos biológicos y geoespaciales:</i></u>
+<u><i>Data analysis of biological and spatial data:</i></u>
 
-* Use of Geographic Information Systems (GIS) tools, as well as the use of Spatial Data Infrastructure (SDI) web tools.
+* Use of Geographic Information Systems tools (GIS), as well as the use of Spatial Data Infrastructure (SDI) web tools.
 
 Among the software I have used to study spatial data are:
 
@@ -63,7 +64,7 @@ Among the software I have used to study spatial data are:
 
 * [QGIS](https://github.com/qgis/QGIS) an Open Source GIS.
 * [IDECanarias](https://www.idecanarias.es/) and [IDEGranCanaria](https://www.idegrancanaria.es/) viewers.
-* I also have data analysis [projects](https://juancarlosbio.github.io/juancarlos_portfolio_esp//proyectos/) using Python y R.
+* I also have data analysis [projects](https://juancarlosbio.github.io/juancarlos_portfolio_eng/projects/) using Python y R.
 * Office software (Microsoft Office, the council's own system)
 
 <strong>Feb 2022 - Apr 2022 Animal facilites of the General Research Support Service</strong> 
@@ -73,7 +74,7 @@ My first experience as a professional was as a <u><strong>table - animal facilit
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/foto%20segai.jpg" width="170px">
-  <figcaption style="font-size: 12px;" align="center">Primera experiencia en el SEGAI.</figcaption>
+  <figcaption style="font-size: 12px;" align="center">My first expereince in  SEGAI.</figcaption>
 </div>
 
 ## <strong>Job duties and skills</strong>:
