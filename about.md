@@ -36,7 +36,7 @@ section {
 <p>
   <h2><strong>🎓 My Education</strong>:</h2> 
   
-  I am a <u>Graduate in Biology</u> from the <i>University of La Laguna (ULL)</i>, due to my interest in the life sciences and how to make decisions based on scientific knowledge to solve problems. 
+  I am a <u>Biology graduate</u> from the <i>University of La Laguna (ULL)</i>, due to my interest in the life sciences and how to make decisions based on scientific knowledge to solve problems. 
 </p>
 
 <p>
@@ -45,7 +45,7 @@ section {
 
 ## <strong>💼 My Professional Experience</strong>:
 
-My academic studies have provided me with job opportunities such as working in the General Research Support Service (SEGAI) at the University of La Laguna (ULL), where I worked as a technician in the animal housing and laboratory. Currently, I am on a secondment in the Environmental Technical Service of the Cabildo of Gran Canaria as a <u>Environmental Technician, Graduate in Biology</u>..
+My academic studies have provided me with job opportunities such as working in the General Research Support Service (SEGAI) at the University of La Laguna (ULL), where I worked as a technician in the animal housing and laboratory. Currently, I am on a secondment in the Environmental Technical Service of the Cabildo of Gran Canaria as a <u>Environmental Technician, Graduate in Biology</u>.
 
 ## <strong>What is my professional goal?</strong> 
 
