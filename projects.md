@@ -81,7 +81,7 @@ Currently, I am focusing on the search for <u>invertebrates and plants</u>, alth
 * Programming: Python, R, Bash, JavaScript,  CSS, HTML.
 * Workflows management systems (SNAKEMAKE).
 * Big Data (SITECAN, Biota...).
-* Web development, maintenance, debbuging (a lot of debbuging 😢… I love it).
+* Web development, maintenance, debugging (a lot of debugging 😢… I love it).
 * Conda package manager.
 * Git and GitHub (GitHub Actions, GitHub Pages)
 * GIS viewers.
