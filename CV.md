@@ -112,8 +112,7 @@ Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](h
             <li>Web development</li>
             <li>Office software (Excel, Word)</li>
             <li>Environment</li>
-            <li>Fieldwork</li>
-            <li>Species identification <i>in situ</i></li>
+            <li>Animal healthcare</i>
             <li>Writing technical reports</li>
         </ul>
     </td>

@@ -78,15 +78,17 @@ I share my projects, both the highlights and those I'm still learning, in my Git
 Currently, I am focusing on the search for <u>invertebrates and plants</u>, although I do not rule out including other organisms in the future.
 
 **Some skills**:
+* Use of Tools for Reproducible Research.
 * Programming: Python, R, Bash, JavaScript,  CSS, HTML.
 * Workflows management systems (SNAKEMAKE).
-* Big Data (SITECAN, Biota...).
-* Web development, maintenance, debugging (a lot of debugging 😢… I love it).
+* Big Data (SITCAN, Biota...).
+* Web development, maintenance, debugging (a lot of debugging 😢… I love it!).
 * Conda package manager.
 * Git and GitHub (GitHub Actions, GitHub Pages)
 * GIS viewers.
 * Biology: fieldwork, of species identification.
 * Data analysis, and Data Visualization of biological and spatial data.
+* SQL/MySQL: database design and management. I am currently working on creating a species database, integrating data from BIOCAN and SITCAN through queries and related tables.
 
 <p align="center"><u><i>Visit the project at:</i></u></p>
 
@@ -97,20 +99,6 @@ Currently, I am focusing on the search for <u>invertebrates and plants</u>, alth
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 
-### **Trails website obtained by the IGN application** 🗺️️
-
-**Description**: On this website I share trails obtained in KML format from GPX files generated with the IGN application.
-
-I have developed the workflow, but I am looking to improve the website to optimize the user experience. 
-
-<p align="center"><u><i>Visit the project at:</i></u></p>
-
-<div style="text-align: center;">
-<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Salidas_de_Campo_CabildoGC/'">📚 <strong><u>GitHub Repository</u></strong></button>
-<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/Salidas_de_Campo_CabildoGC/'">🌐 <strong><u>Website</u></strong></button>
-</div>
-
-<hr style="border: 1px solid #ededed; margin: 20px 0;">
 
 ### **Grids for searching for species (<u>Python</u>)** 🌷🐜🔍
 
@@ -118,15 +106,34 @@ I have developed the workflow, but I am looking to improve the website to optimi
   <img src="https://github.com/JuanCarlosBio/Cuadriculas_Especies/blob/main/images/exampe_portfolio/Captura%20de%20pantalla%202024-10-03%20165837.png?raw=true" width="200px">
 </div>
 
-**Description:** Workflow to create grids of a required surface (50x50 m 100x100m…) in Protected Natural Areas, using Python. The idea is to have grids to load in IGN and better navigate these spaces and annotate species.
+**Description:** Workflow to create grids of a required surface (50 m x 50 m 100 x 100 m…) in Protected Natural Areas, using Python. The idea is to have grids to load in IGN and better navigate these spaces and annotate species.
 
 With these layers, spatial analyses of identified species (or other observations) can then be carried out, such as the website I have developed for the location of native species in the Bandama caldera.
+
+Using this software, I am developing a species layer with a resolution of 50 m x 50 m (in GPKG, KML, and SHP formats) for the <u><strong>Jinámar C-29 Site of Scientific Interest</strong></u>. Additionally, I am creating an interactive web application to analyze the inventory, which will be useful for space management
  
 <p align="center"><u><i>Visit the project at:</i></u></p>
 
 <div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Cuadriculas_Especies'">📚 <strong><u>GitHub Repository</u></strong></button>
 <button class="button" onclick="window.location.href='https://juancarlosbio.github.io/Cuadriculas_Especies/'">🌐 <strong><u>Website</u></strong></button>
+</div>
+
+<hr style="border: 1px solid #ededed; margin: 20px 0;">
+
+### **Trails website obtained by the IGN application** 🗺️️
+
+**Description**: On this website I share trails obtained in KML format from GPX files generated with the IGN application.
+
+I have developed the workflow, but I am looking to improve the website to optimize the user experience. 
+
+I understand it may not seem like a big deal, but the code has been useful to me on some occasions.
+
+<p align="center"><u><i>Visit the project at:</i></u></p>
+
+<div style="text-align: center;">
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Salidas_de_Campo_CabildoGC/'">📚 <strong><u>GitHub Repository</u></strong></button>
+<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/Salidas_de_Campo_CabildoGC/'">🌐 <strong><u>Website</u></strong></button>
 </div>
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
@@ -212,6 +219,7 @@ In addition, I was introduced to the use of frameworks for WEB development throu
 
 **Description**: This project consisted in developing a workflow for <u>bioinformatics analysis of Next Generation Sequencing</u> using the software [SNAKEMAKE](https://snakemake.github.io/), a workflow manager based on GNUmake. Snakemake is ideal for automating and reproducing bioinformatics processes, standing out for its syntax in Python, which facilitates its learning and understanding. 
 
+* Use of Tools for Reproducible Research.
 * Programming: Python, R, Bash.
 * Workflows management systems (SNAKEMAKE), self learned myself reading the documentation.
 * Tasks automation.
@@ -250,7 +258,7 @@ In addition, I was introduced to the use of frameworks for WEB development throu
 ### **Other subjects of the master's degree (2022)** 🧬 👨‍💻 📈
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://media.licdn.com/dms/image/v2/D4D12AQEz33xZKsngrw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1685213382501?e=1732752000&v=beta&t=oM6a_TEeZpZq4-IHTMnL3N0zZ2uCXgwsLqWHrVRtjjY" width="150px">
+  <img src="https://db0dce98.rocketcdn.me/es/files/2020/04/Diapositive1-1.png" width="150px">
 </div>
 
 ### Programming Activities in Python and R (VIU)
