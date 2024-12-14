@@ -112,7 +112,7 @@ Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](h
             <li>Web development</li>
             <li>Office software (Excel, Word)</li>
             <li>Environment</li>
-            <li>Animal healthcare</i>
+            <li>Animal healthcare</li>
             <li>Writing technical reports</li>
         </ul>
     </td>
