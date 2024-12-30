@@ -45,27 +45,19 @@ The main task of the position is public management through the drafting of techn
 
 It is often necessary to go *in situ* of the places, to check the interventions to be carried out and to get a better idea of ​​what is intended to be done. In this way, I have learned the importance of attention to detail required as a technician, as well as the value of communication with other teammates and with the requesters themselves.
 
-### 💻 **Skills that I have developed as a complement**:
+### Other Tasks by Personal Initiative: 📊 *Data Analysis*
 
-<u><i>Data analysis of biological and spatial data:</i></u>
-
-* Use of Geographic Information Systems tools (GIS), as well as the use of Spatial Data Infrastructure (SDI) web tools.
-
-Among the software I have used to study spatial data are:
-
-<div style="float: right; margin-right: 100px;">
-  <img src="https://www.qgis.org/img/logosign.svg" width="50px">
-
-  <img src="https://yt3.googleusercontent.com/4umaHqwcGrVJ7pC1aAb_LeVzrl3Wx-5-RcBfUYloydlCGmr36MSEqrw6m6XAgpFuWx-VtBt8gA=s900-c-k-c0x00ffffff-no-rj" width="60x">
-
-  <img src="https://db0dce98.rocketcdn.me/es/files/2020/04/Diapositive1-1.png" width="70x">
-
+<div style="float: right; margin-right: 20px;">
+<p align = 'center'><img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/riqueza_jinamar.png" width="350px"></p> 
 </div>
 
-* [QGIS](https://github.com/qgis/QGIS) an Open Source GIS.
-* [IDECanarias](https://www.idecanarias.es/) and [IDEGranCanaria](https://www.idegrancanaria.es/) viewers.
-* I also have data analysis [projects](https://juancarlosbio.github.io/juancarlos_portfolio_eng/projects/) using Python y R.
-* Office software (Microsoft Office, the council's own system)
+I proposed developing an application to maintain an inventory of species in the Protected Natural Area <u><strong>Site of Scientific Interest Jinámar C-29</strong></u>. This task included field sampling through field trips and the subsequent analysis of the collected data.
+
+The application features <u>interactive tables, charts, and maps (GIS)</u> that enable the visualization and analysis of key information, such as species richness and the presence of invasive species.
+
+I personally developed the base grids used in the application, and the source code is publicly available in my GitHub repository: [Source Code](https://github.com/JuanCarlosBio/Cuadriculas_Especies/blob/main/workflow.ipynb). For the rest, you have to contact with me.
+
+Additionally, I have been working on an Excel database to manage and monitor activities carried out by one of the companies contracted by the Cabildo, GESPLAN (S.A.). This database enables the tracking of the materials used and allows data analysis (over a period from 2023 to 2024) to estimate costs for future projects and optimize the economic management of these initiatives.
 
 <strong>Feb 2022 - Apr 2022 Animal facilites of the General Research Support Service</strong> 
 ===

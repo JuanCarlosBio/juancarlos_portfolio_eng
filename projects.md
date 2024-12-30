@@ -65,7 +65,7 @@ I share my projects, both the highlights and those I'm still learning, in my Git
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 
-## **Island Council of Gran Canaria (Environmental Service)** 🥾 
+## **Island Council of Gran Canaria, Environmental Service (side projects)** 🥾 
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/GC_mapa.png" width="250px">
@@ -99,6 +99,29 @@ Currently, I am focusing on the search for <u>invertebrates and plants</u>, alth
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 
+### Species inventory from the Natural Protected Areas in Gran Canaria 📋
+
+<div style="float: right; margin-left: 20px;">
+  <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/ejemplo_inventario.png" width="380px">
+    <figcaption style="font-size: 12px;" align="center">
+      First records of <a href='https://juancarlosbio.github.io/inventario_especies_enp/html_enp/monumento_natural/C-14_bandama.html'>the inventory from C-14 Bandama Natural Monument</a>.
+    </figcaption>
+</div>
+
+From the species website data, I have created a MySQL database, where I have performed various queries to structure tables containing the species I have observed in the Protected Natural Areas of Gran Canaria Island.
+
+What truly sets this project apart is that I have primarily used it to <u><i>learn how to perform SQL queries and management of Docker containers</i></u>. These containers allow me to maintain a stable environment compatible with the required versions to continuously run my software.
+
+Finally, I have developed a simple web interface to visualize the data, although, in this case, what truly interests me is the collected information itself.
+
+<p align="center"><u><i>Visit the project at:</i></u></p>
+
+<div style="text-align: center;">
+<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/inventario_especies_enp'">📚 <strong><u>GitHub Repository</u></strong></button>
+<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/inventario_especies_enp/'">🌐 <strong><u>Website</u></strong></button>
+</div>
+
+<hr style="border: 1px solid #ededed; margin: 20px 0;">
 
 ### **Grids for searching for species (<u>Python</u>)** 🌷🐜🔍
 

@@ -40,9 +40,9 @@ body {
 💼 **Professional experience**
 ======
 
-* **Feb 2024 - PRESENT**: Technical nvironmental Service. 
+* **Feb 2024 - PRESENT**: Technical environmental Service. 
 
-  * **Institution**: Island Council of Gran Canaria.
+  * **Institution**: *<u>Island Council of Gran Canaria</u>*.
 
   * **Role**: 🌲 Environmental technician / Graduate in Biology.
 
@@ -50,7 +50,7 @@ body {
 
 * **2022, Duración 3 meses**: Animal facilities of the General Research Support Service of La Laguna ("Servicio General de Apoyo a la Investigación", <u>SEGAI</u>)
 
-  * **Institution**: La Laguna University
+  * **Institution**: *<u>La Laguna University</u>*
 
   * **Role**: 🐁 Animal research facility Technician.
 
@@ -104,13 +104,15 @@ Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](h
             <li>Python, R, Bash, others to a lesser extent (HTML, CSS...)</li>
             <li>Git and GitHub</li>
             <li>UNIX-based operating systems</li>
+            <li>SQL/MySQL</li>
+            <li>Docker</li>
             <li>Automation</li>
             <li>Data science, visualization</li>
             <li>Next Generation Sequencing (NGS)</li>
             <li>Spatial data (KML, SHP, GPX...)</li>
             <li>Viewers: Genomic (IGV) and GIS (QGIS, ArcGIS, others)</li>
             <li>Web development</li>
-            <li>Office software (Excel, Word)</li>
+            <li>Office software (Excel, Word, PPT...)</li>
             <li>Environment</li>
             <li>Animal healthcare</li>
             <li>Writing technical reports</li>
@@ -118,6 +120,32 @@ Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](h
     </td>
  </tr>
 </table>
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://dlab.berkeley.edu/sites/default/files/styles/openberkeley_brand_widgets_rectangle/public/bash.png?itok=OXn82XHK&timestamp=1632296342" alt="bash" width="60" height="40"/> </a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</a>
+<a href="https://snakemake.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://snakemake.readthedocs.io/en/stable/_static/logo-snake.svg" alt="snakemake" width="40" height="40"/> </a></a>
+<a href="https://anaconda.org/anaconda/conda" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwF2NBamjxOn6N93pk2HWcKSzKBZ-SkoI69g&s" alt="conda" width="40" height="40"/> </a>
+</a>
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt="html" width="40" height="40"/> </a>
+<a href="https://www.qgis.org/" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/img/logosign.svg" alt="qgis" width="40" height="40"/> </a>
+</a>
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
+<a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCxoHJUlcAM9i73tlTYAp7ipQQLetTV2C1IA&s" alt="rstudio" width="40" height="40"/> </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" alt="jupyter-notebook" width="40" height="50"/> </a>   
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="linux" width="40" height="40"/> </a>
+<a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://julialang.org/assets/infra/logo.svg" alt="julia" width="50" height="40"/> </a>
+<a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://jekyllrb.com/img/octojekyll.png" alt="jekyll" width="50" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://pontia.tech/wp-content/uploads/2023/06/Imagen1.png" alt="sql" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180411/wre/avf0mauoj.webp" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://ausum.cloud/wp-content/uploads/2024/09/docker.png" alt="docker" width="40" height="40"/></a>
+</p> 
 
 <p style="font-size:16px; margin-top:20px; color:gray;">
 🧳 The truth is, it's been an interesting journey.🚀
