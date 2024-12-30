@@ -161,7 +161,7 @@ I understand it may not seem like a big deal, but the code has been useful to me
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 
-## **Otros proyectos personales este año** 
+## **Other projects this year** 
 
 ### **Drought study in the Canary Islands (NOAA stations)** 
 
@@ -188,7 +188,7 @@ Unfortunately, a catastrophe occurs in Asheville on September 28, 2024 due to Hu
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 
-### **DASHBOARD de la meteorología de las Islas Canarias**
+### **Meteorological Dashboard of the Canary Islands**
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://github.com/JuanCarlosBio/meteorologia_canarias/blob/main/plots/newplot.png?raw=true" width="350px">
