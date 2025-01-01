@@ -144,23 +144,6 @@ Using this software, I am developing a species layer with a resolution of 50 m x
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 
-### **Trails website obtained by the IGN application** 🗺️️
-
-**Description**: On this website I share trails obtained in KML format from GPX files generated with the IGN application.
-
-I have developed the workflow, but I am looking to improve the website to optimize the user experience. 
-
-I understand it may not seem like a big deal, but the code has been useful to me on some occasions.
-
-<p align="center"><u><i>Visit the project at:</i></u></p>
-
-<div style="text-align: center;">
-<button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Salidas_de_Campo_CabildoGC/'">📚 <strong><u>GitHub Repository</u></strong></button>
-<button class="button" onclick="window.location.href='https://juancarlosbio.github.io/Salidas_de_Campo_CabildoGC/'">🌐 <strong><u>Website</u></strong></button>
-</div>
-
-<hr style="border: 1px solid #ededed; margin: 20px 0;">
-
 ## **Other projects this year** 
 
 ### **Drought study in the Canary Islands (NOAA stations)** 
@@ -190,16 +173,12 @@ Unfortunately, a catastrophe occurs in Asheville on September 28, 2024 due to Hu
 
 ### **Meteorological Dashboard of the Canary Islands**
 
-<div style="float: right; margin-left: 20px;">
-  <img src="https://github.com/JuanCarlosBio/meteorologia_canarias/blob/main/plots/newplot.png?raw=true" width="350px">
-</div>
-
 I have created a DASHBOARD to analyse the variation of the variables of <u>temperature and accumulated precipitation</u>, provided by **the Meteorological Observation System of the Canary Islands** (public data from SITCAN)  to see how it evolves in the coming years. As in other projects to automate the downloading of data and its processing, I use tools such as GitHub Actions and GitHub Pages.
 
 Among the applications there is an interactive map of the Canary Islands with the accumulated precipitation (units in mm), as well as the air temperature (ºC) for the last month for which data is available. There are still things I would like to add to this website, but it is already on its way.
-
-
-
+<p align="center">
+  <img src="https://github.com/JuanCarlosBio/meteorologia_canarias/blob/main/plots/portfolio_plot.png?raw=true" width="600px">
+</p>
 <p align="center"><u><i>Visit the project at:</i></u></p>
 
 <div style="text-align: center;">
