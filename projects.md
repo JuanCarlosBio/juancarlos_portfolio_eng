@@ -175,6 +175,8 @@ Unfortunately, a catastrophe occurs in Asheville on September 28, 2024 due to Hu
 
 I have created a DASHBOARD to analyse the variation of the variables of <u>temperature and accumulated precipitation</u>, provided by **the Meteorological Observation System of the Canary Islands** (public data from SITCAN)  to see how it evolves in the coming years. As in other projects to automate the downloading of data and its processing, I use tools such as GitHub Actions and GitHub Pages.
 
+The original reason for this project is that during my time at the Island Council, I contributed to the implementation of vegetation planting projects. Considering 2024 has been a dry year, and given that rain is an important natural resource for the success of these plantations, a tool that gathers data on variables such as temperature and accumulated precipitation could be very useful.
+
 Among the applications there is an interactive map of the Canary Islands with the accumulated precipitation (units in mm), as well as the air temperature (ºC) for the last month for which data is available. There are still things I would like to add to this website, but it is already on its way.
 <p align="center">
   <img src="https://github.com/JuanCarlosBio/meteorologia_canarias/blob/main/plots/portfolio_plot.png?raw=true" width="600px">

@@ -59,6 +59,8 @@ I personally developed the base grids used in the application, and the source co
 
 Additionally, I have been working on an Excel database to manage and monitor activities carried out by one of the companies contracted by the Cabildo, GESPLAN (S.A.). This database enables the tracking of the materials used and allows data analysis (over a period from 2023 to 2024) to estimate costs for future projects and optimize the economic management of these initiatives.
 
+<hr style="border: 1px solid #ededed; margin: 20px 0;">
+
 <strong>Feb 2022 - Apr 2022 Animal facilites of the General Research Support Service</strong> 
 ===
 
