@@ -58,7 +58,7 @@ body {
   <img src="https://pbs.twimg.com/profile_images/1561716451173621760/kLELmYdp_400x400.jpg" width="70px"> <img src="https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2015/07/LOGOSEGAI-transparencia-2014.png" width="150px">
 </p>
 
-If you want to learn more about my experience go to the page: [***"Experience"***](https://juancarlosbio.github.io/juancarlos_portfolio_esp/experiencia/) 
+If you want to learn more about my experience go to the page: [***"Experience"***](https://juancarlosbio.github.io/juancarlos_portfolio_eng/experience/) 
 
 ### Other experience: 👩‍💻 <u>Programmer</u> 
 

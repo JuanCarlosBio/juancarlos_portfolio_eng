@@ -321,6 +321,7 @@ In addition, I taught myself how to use Git and GitHub for version control, stor
 
 <center>
 
+<div style="text-align: center;">
 <button class="button" onclick="window.location.href='https://github.com/JuanCarlosBio/Tortugas_La_Tahonilla'">📚 <strong><u>GitHub Repository</u></strong></button>
 </div>
 
