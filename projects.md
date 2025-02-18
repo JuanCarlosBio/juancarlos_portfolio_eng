@@ -108,11 +108,9 @@ Once I have the equipment, I would like to share my discoveries on social media.
   <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/comienzos.jpg" width="350px">
 </p>
 
-# **Projects of 2024**
-
-<p> </p>
-
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
+
+# **Projects of 2024**
 
 **Island Council of Gran Canaria, Environmental Service (side projects)** 🥾 
 ===
