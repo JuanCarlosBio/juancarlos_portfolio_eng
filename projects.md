@@ -58,20 +58,70 @@ Due to my great interest in computer science, I have developed personal projects
 
 I share my projects, both the highlights and those I'm still learning, in my GitHub repository, which allows me to document and reflect my technical evolution and continuous learning.
 
-**2024 Projects**
-===
+## Table of contents:
+
+1. [Projects of 2025](#projects-of-2025)
+    1. [Natural ecosystems: <u>terraiums and ecospheres</u> 🔬🐜🌱](#natural-ecosystems-terraiums-and-ecospheres-)
+2. [Projects of 2024](#projects-of-2024)
+    1. [Website of Species of the island of Gran Canaria observed 🐜🌱](#website-of-species-of-the-island-of-gran-canaria-observed-)
+    2. [Species inventory from the Natural Protected Areas in Gran Canaria 📋](#species-inventory-from-the-natural-protected-areas-in-gran-canaria-)
+    3. [Grids for searching for species (<u>Python</u>) 🌷🐜🔍](#grids-for-searching-for-species-python-)
+    4. [Drought study in the Canary Islands (NOAA stations) ☀️ ☁️ ☔](#drought-study-in-the-canary-islands-noaa-stations)
+    5. [Meteorological Dashboard of the Canary Islands](#meteorological-dashboard-of-the-canary-islands)
+    6. [Sea Turtle Database Analysis using Julia](#sea-turtle-database-analysis-using-julia)
+3. [Projects of 2023](#projects-of-2023)
+    1. [<u>Master's Thesis in Bioinformatics (VIU)</u> 🧬 👨‍💻 📈](#masters-thesis-in-bioinformatics-viu---)
+    2. [Transncryptomics Activities (VIU)](#transncryptomics-activities-viu)
+4. [Projects of 2022](#projects-of-2022)
+    1. [Programming Activities in Python and R (VIU)](#programming-activities-in-python-and-r-viu)
+    2. [Shell Scripting / BASH Programming Activities (VIU)](#shell-scripting--bash-programming-activities-viu)
+    3. [Statistical analysis of stranded sea turtles in Tenerife, Canary Islands](#statistical-analysis-of-stranded-sea-turtles-in-tenerife-canary-islands)
+5. [Projects of 2021](#projects-of-2021)
+    1. [Fourth Year Subjects of the Degree in Biology at ULL](#fourth-year-subjects-of-the-degree-in-biology-at-ull)
+
+# **Projects of 2025**
+
+## Natural ecosystems: <u>terraiums and ecospheres</u> 🔬🐜🌱
+
+For a long time time now, I' ve being interested in the idea of **autosustainable natural ecosystems**, either <u>acuatic or terrestrial</u>, inside of sealed jars.
+
+<div style="float: right; margin-left: 20px;">
+  <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/frascos_ecosistemas.jpg" width="250px">
+</div>
+
+<div style="float: right; margin-left: 20px;">
+  <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/genero_physa.jpg" width="200px">
+  <figcaption style="text-align: center;">
+    <p style="font-size: 11px;">Fresh water snail<br>likely <i>Physella acuta</i></p>
+  </figcaption>
+</div>
+
+<u><strong>Aquatic Ecosphere</strong></u>: *Simulation of an aquatic environment*. A field trip is conducted to collect samples of stagnant water, ensuring to obtain substrate with microorganisms, fauna, algae, and plants that perform photosynthesis to maintain the ecosystem.
+
+<u><strong>Terrarium</strong></u>: *Simulation of a terrestrial environment*. First, a drainage layer, such as gravel, is placed, followed by a layer of sampled soil containing microbes, plants, and fauna that will bring the ecosystem to life.
+
+My goal is to set up a home laboratory, investing in recording equipment to observe the organisms in each jar and study how the ecosystems evolve until they stabilize. This will allow me to delve into ecological principles and analytical laboratory techniques through various experiments.
+
+Once I have the equipment, I would like to share my discoveries on social media.
+
+<p  align="center">
+  <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/comienzos.jpg" width="350px">
+</p>
+
+# **Projects of 2024**
 
 <p> </p>
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 
-## **Island Council of Gran Canaria, Environmental Service (side projects)** 🥾 
+**Island Council of Gran Canaria, Environmental Service (side projects)** 🥾 
+===
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/GC_mapa.png" width="250px">
 </div>
 
-### **Website of Species of the island of Gran Canaria observed** 🐜🌱 
+## **Website of Species of the island of Gran Canaria observed** 🐜🌱 
 
 <strong>Description:</strong> This website was created for the observation of species located <i>in situ</i> by taking georeferenced samples through mobile phone photographs. The platform consists of several pages where the species can be observed in viewers, interactive tables and statistics.
 
@@ -99,7 +149,7 @@ Currently, I am focusing on the search for <u>invertebrates and plants</u>, alth
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 
-### Species inventory from the Natural Protected Areas in Gran Canaria 📋
+## Species inventory from the Natural Protected Areas in Gran Canaria 📋
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/ejemplo_inventario.png" width="380px">
@@ -144,9 +194,10 @@ Using this software, I am developing a species layer with a resolution of 50 m x
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 
-## **Other projects this year** 
+**Other projects this year** 
+===
 
-### **Drought study in the Canary Islands (NOAA stations)** 
+## **Drought study in the Canary Islands (NOAA stations)** 
 
 ☀️ ☁️ ☔
 
@@ -171,7 +222,7 @@ Unfortunately, a catastrophe occurs in Asheville on September 28, 2024 due to Hu
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 
-### **Meteorological Dashboard of the Canary Islands**
+## **Meteorological Dashboard of the Canary Islands**
 
 I have created a DASHBOARD to analyse the variation of the variables of <u>temperature and accumulated precipitation</u>, provided by **the Meteorological Observation System of the Canary Islands** (public data from SITCAN)  to see how it evolves in the coming years. As in other projects to automate the downloading of data and its processing, I use tools such as GitHub Actions and GitHub Pages.
 
@@ -191,7 +242,7 @@ Among the applications there is an interactive map of the Canary Islands with th
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 
-### **Sea Turtle Database Analysis using Julia**
+## **Sea Turtle Database Analysis using Julia**
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2023/01/Ifihan-article-cover.png" width="200px">
@@ -212,10 +263,9 @@ In addition, I was introduced to the use of frameworks for WEB development throu
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;"> 
 
-**2023 Projects**
-===
+# **Projects of 2023**
 
-### <u>Master's Thesis in Bioinformatics (VIU)</u> 🧬 👨‍💻 📈
+## <u>Master's Thesis in Bioinformatics (VIU)</u> 🧬 👨‍💻 📈
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://snakemake.readthedocs.io/en/stable/_static/logo-snake.svg" width="150px">
@@ -242,9 +292,10 @@ In addition, I was introduced to the use of frameworks for WEB development throu
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 
-### **Other subjects of the master's degree (2023)** 🧬 👨‍💻 📈
+ **Other subjects of the master's degree (2023)** 🧬 👨‍💻 📈
+ ===
 
-### Transncryptomics Activities (VIU)
+## Transncryptomics Activities (VIU)
 
 **Descripción**: Código empleado para resolver los problemas de la asignatura Trascriptómica (RNA-SEQ). I improved it with the use of Snakemake.
 
@@ -256,16 +307,15 @@ In addition, I was introduced to the use of frameworks for WEB development throu
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 
-**2022 Projects**
-===
+# **Projects of 2022**
 
-### **Other subjects of the master's degree (2022)** 🧬 👨‍💻 📈
+## **Other subjects of the master's degree (2022)** 🧬 👨‍💻 📈
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://db0dce98.rocketcdn.me/es/files/2020/04/Diapositive1-1.png" width="150px">
 </div>
 
-### Programming Activities in Python and R (VIU)
+## Programming Activities in Python and R (VIU)
 
 **Description**: Code used to solve the problems of the Programming subject in the Python and R Programming Languages.
 
@@ -277,7 +327,7 @@ In addition, I was introduced to the use of frameworks for WEB development throu
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 
-### Shell Scripting / BASH Programming Activities (VIU)
+## Shell Scripting / BASH Programming Activities (VIU)
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*f7uGDZbiOloyZSM8C5bNMQ.png" width="150px">
@@ -296,9 +346,10 @@ It is worth noting that I also specialized in the *<u>Linux Operating System</u>
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 
-### **Final Degree Project in Biology** 
+**Final Degree Project in Biology** 
+===
 
-### *Statistical analysis of stranded sea turtles in Tenerife, Canary Islands* 
+## *Statistical analysis of stranded sea turtles in Tenerife, Canary Islands* 
 
 <div style="float: right; margin-left: 20px;">
   <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/tahonilla_tortugas.jpg" width="250px">
@@ -331,10 +382,9 @@ In addition, I taught myself how to use Git and GitHub for version control, stor
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;"> 
 
-**2021 Projects**
-===
+# **Projects of 2021**
 
-### **Fourth Year Subjects of the Degree in Biology at ULL**
+## **Fourth Year Subjects of the Degree in Biology at ULL**
 
 I taught myself programming to analyse data from my final year of college. I started with the R programming language , and I still have the code used for the analyses. I have also used it to experiment and apply new knowledge, making modifications and exploring different approaches.
 

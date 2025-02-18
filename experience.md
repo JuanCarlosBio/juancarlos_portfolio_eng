@@ -21,7 +21,7 @@ body {
 
 </style>
 
-<strong>Feb 2024 - PRESENT Island Council of Gran Canaria</strong>
+<strong>January 2024 - January 2025 Island Council of Gran Canaria</strong>
 ===
 
 <div style="float: right; margin-left: 20px;">
@@ -44,6 +44,12 @@ The main task of the position is public management through the drafting of techn
 ### 🥾 *Fieldwork*
 
 It is often necessary to go *in situ* of the places, to check the interventions to be carried out and to get a better idea of ​​what is intended to be done. In this way, I have learned the importance of attention to detail required as a technician, as well as the value of communication with other teammates and with the requesters themselves.
+
+### 🌲💬 *Environmental Education Tasks*
+
+I participated in field trips with the aim of environmental education, organizing events to raise awareness about the biodiversity of the Canary Islands. During these activities, I guided groups of people in recognizing native species and provided information about the Protected Natural Areas of Gran Canaria.
+
+Additionally, I conducted research on the impact of feral chickens 🐔 in the Protected Natural Areas of the island. As part of this work, I created an informative message and shared it on social media (Facebook) to raise awareness about the issues caused by these animals and propose measures to take in case of sightings in the wild. [Contribution on Facebook](https://www.facebook.com/share/p/1BS8Gta6gA/).
 
 ### Other Tasks by Personal Initiative: 📊 *Data Analysis*
 
