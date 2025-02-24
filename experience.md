@@ -28,7 +28,7 @@ body {
   <img src="https://pbs.twimg.com/profile_images/1561716451173621760/kLELmYdp_400x400.jpg" width="100px">
 </div>
 
-I have currently been offered a one-year employment contract at the <u><strong>Island Council of Gran Canaria</strong></u>, in the <u><strong>Environmental Technical Service</strong></u> thanks to the opportunity provided by the New Employment Opportunities (NOE) project. Specifically, my position is <u><strong>Environmental Technician, Graduate in Biology.</strong></u>
+I was offered a one-year employment contract at the <u><strong>Island Council of Gran Canaria</strong></u>, in the <u><strong>Environmental Technical Service</strong></u> thanks to the opportunity provided by the New Employment Opportunities (NOE) project. Specifically, my position was <u><strong>environmental technician, Graduate in Biology.</strong></u>
 
 ## **Job duties and skills**:
 
