@@ -108,6 +108,26 @@ Once I have the equipment, I would like to share my discoveries on social media.
   <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/comienzos.jpg" width="350px">
 </p>
 
+### Interesting Discovery:
+
+<div style="float: right; margin-left: 20px;">
+  <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/hidra2.jpg" width="300px">
+  <figcaption style="text-align: center;">
+    <p style="font-size: 11px;">Hydra species, possibly <i>Hydra oligactis</i>.</p>
+  </figcaption>
+</div>
+
+As of <strong><u>February 19, 2025</u></strong>, I made a discovery of what I believe to be a species not previously observed in the Canary Islands, or at least not recorded in the Canary Islands Biodiversity Database ([BIOCAN](https://www.biodiversidadcanarias.es/)). It is a species of the genus ***Hydra***, specifically I believe it is the brown hydra, [*Hydra oligactis*](https://es.wikipedia.org/wiki/Hydra_oligactis#cite_ref-1) (although there are several species, there are no records of any other species of this genus), found attached to one of the substrate leaves.
+
+The water sample was collected at **Finca del Galeón in Santa Brígida**, Gran Canaria Island.
+
+<p align="center">
+  <img src="https://juancarlosbio.github.io/juancarlos_portfolio_esp/images/Estanque1.jpg" width="350px">
+    <figcaption style="text-align: center;">
+      <p style="font-size: 11px;"><i>Area with stagnant water where the water sample was taken.</i></p>
+    </figcaption>
+</p>
+
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 
 # **Projects of 2024**
