@@ -40,7 +40,7 @@ body {
 💼 **Professional experience**
 ======
 
-* **Feb 2024 - PRESENT**: Technical environmental Service. 
+* **Jan 2024 - Jan 2025**: Technical environmental Service. 
 
   * **Institution**: *<u>Island Council of Gran Canaria</u>*.
 
@@ -48,7 +48,7 @@ body {
 
 <p>  </p>
 
-* **2022, Duración 3 meses**: Animal facilities of the General Research Support Service of La Laguna ("Servicio General de Apoyo a la Investigación", <u>SEGAI</u>)
+* **2022 (3 months)**: Animal facilities of the General Research Support Service of La Laguna ("Servicio General de Apoyo a la Investigación", <u>SEGAI</u>)
 
   * **Institution**: *<u>La Laguna University</u>*
 
