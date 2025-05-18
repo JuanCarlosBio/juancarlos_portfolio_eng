@@ -21,11 +21,29 @@ body {
 
 </style>
 
-<strong>January 2024 - January 2025 Island Council of Gran Canaria</strong>
+<strong>April 2025 - PRESENT: LORO PARQUE (Loro Parque Fundación)</strong>
 ===
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://pbs.twimg.com/profile_images/1561716451173621760/kLELmYdp_400x400.jpg" width="100px">
+  <img src="https://media.licdn.com/dms/image/v2/C4D0BAQGqSNC1jMsVMw/company-logo_200_200/company-logo_200_200/0/1630564264676/loroparque_logo?e=1753315200&v=beta&t=q3U7BzGp0N48PQhQqZ9ClDIBXxNwRV1zuFP0vwvP0Iw" width="100px"><img src="https://www.loroparque-fundacion.org/app/uploads/2024/08/logocalidadfundacionpng30.webp" width="200px"> 
+</div>
+
+I continue to grow professionally at **Loro Parque Fundación** in the role of **Conservation Officer**. I will serve as a *Species Survival Officer* at the *Center for Species Survival of Macaronesia* (***CSSM***), which is part of the global network of the *Species Survival Commission* (***SSC***) of the ***International Union for Conservation of Nature (IUCN)***.
+
+## **Planned Job Duties**
+
+I am still early in my career, but my role in this organization, among other responsibilities, will include:
+
+- Conducting risk assessments and developing action plans related to species conservation.
+- Participating in evaluations such as the Red List, Key Biodiversity Areas (KBAs), and situation analyses.
+- Collaborating with IUCN experts.
+- Assisting in internal conservation projects at Loro Parque Fundación focused on nature protection.
+
+<strong>January 2024 - January 2025: Island Council of Gran Canaria</strong>
+===
+
+<div style="float: right; margin-left: 20px;">
+  <img src="https://pbs.twimg.com/profile_images/1561716451173621760/kLELmYdp_400x400.jpg" width="100px">  
 </div>
 
 I was offered a one-year employment contract at the <u><strong>Island Council of Gran Canaria</strong></u>, in the <u><strong>Environmental Technical Service</strong></u> thanks to the opportunity provided by the New Employment Opportunities (NOE) project. Specifically, my position was <u><strong>environmental technician, Graduate in Biology.</strong></u>

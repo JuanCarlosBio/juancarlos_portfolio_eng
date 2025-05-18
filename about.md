@@ -45,9 +45,18 @@ section {
 
 ## <strong>💼 My Professional Experience</strong>:
 
-My academic studies have provided me with job opportunities such as working in the General Research Support Service (SEGAI) at the University of La Laguna (ULL), where I served as an animal facility technician. In this position, I acquired skills in the maintenance of biomedical facilities, animal welfare, and laboratory techniques, among others. Additionally, my most recent experience has been in the Environmental Technical Service of the Island Council of Gran Canaria as an <u>Environmental Technician, Graduate in Biology</u>, where I developed competencies in environmental management and sustainability.
+My academic background has opened up several professional opportunities, including the following:
+
+* I worked at the General Research Support Service (SEGAI) of the University of La Laguna (ULL) as an **animal facility technician**. In this role, I gained experience in maintaining biomedical facilities, ensuring animal welfare, and applying various laboratory techniques.
+
+* From 2024 to 2025, I served as an **environmental technician** at the Environmental Technical Service of the Gran Canaria Island Council. During this time, I developed skills in public environmental management and sustainability, particularly within the Protected Natural Areas of Gran Canaria.
+
+* Currently, I am continuing to grow professionally at Loro Parque (Loro Parque Fundación) as a **conservation officer**. My role involves serving as a Species Survival Officer at the Center for Species Survival of Macaronesia (CSSM), which is part of the global network of the Species Survival Commission (SSC) under the International Union for Conservation of Nature (IUCN).
+
+
 
 ## <strong>What is my professional goal?</strong> 
 
-My professional focus is oriented towards developing technical skills, as I firmly believe in their value to <u>solve complex problems</u> and provide practical solutions in the workplace. My main interest is to continue growing as a <u>specialized technician</u>, combining my academic knowledge with the experience I gain to effectively face the challenges of the professional world.
+My professional focus is oriented towards developing technical skills, as I firmly believe in their value to _solve complex problems_ and provide practical solutions in the workplace. My main interest is to continue growing as a _specialized technician_, combining my academic knowledge with the experience I gain to effectively face the challenges of the professional world.
 
+Given my background, I have developed a particular vocation for nature conservation, and I would like to continue growing professionally in this field.

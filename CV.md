@@ -40,7 +40,13 @@ body {
 💼 **Professional experience**
 ======
 
-* **Jan 2024 - Jan 2025**: Technical environmental Service. 
+* **Apr 2025 - PRESENT**: Loro Parque Fundación.
+  
+  * **Institution**: <i><u>Loro Parque Group</u></i>.
+
+  * **Role**: Conservation Officer.
+
+* **Jan 2024 - Jan 2025**: Technical Environmental Service. 
 
   * **Institution**: *<u>Island Council of Gran Canaria</u>*.
 
@@ -55,7 +61,7 @@ body {
   * **Role**: 🐁 Animal research facility Technician.
 
 <p align= "center">
-  <img src="https://pbs.twimg.com/profile_images/1561716451173621760/kLELmYdp_400x400.jpg" width="70px"> <img src="https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2015/07/LOGOSEGAI-transparencia-2014.png" width="150px">
+  <img src="https://pbs.twimg.com/profile_images/1561716451173621760/kLELmYdp_400x400.jpg" width="70px"> <img src="https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2015/07/LOGOSEGAI-transparencia-2014.png" width="150px"><img src="https://media.licdn.com/dms/image/v2/C4D0BAQGqSNC1jMsVMw/company-logo_200_200/company-logo_200_200/0/1630564264676/loroparque_logo?e=1753315200&v=beta&t=q3U7BzGp0N48PQhQqZ9ClDIBXxNwRV1zuFP0vwvP0Iw" width="70px"><img src="https://www.loroparque-fundacion.org/app/uploads/2024/08/logocalidadfundacionpng30.webp" width="150px"><img src="https://panorama.solutions/sites/default/files/2024-09/image-6.jpg" width="150px">  
 </p>
 
 If you want to learn more about my experience go to the page: [***"Experience"***](https://juancarlosbio.github.io/juancarlos_portfolio_eng/experience/) 
