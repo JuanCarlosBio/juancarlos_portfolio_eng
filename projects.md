@@ -117,7 +117,7 @@ Once I have the equipment, I would like to share my discoveries on social media.
   </figcaption>
 </div>
 
-As of <strong><u>February 19, 2025</u></strong>, I made a discovery of what I believe to be a species not previously observed in the Canary Islands, or at least not recorded in the Canary Islands Biodiversity Database ([BIOCAN](https://www.biodiversidadcanarias.es/)). It is a species of the genus ***Hydra***, specifically I believe it is the brown hydra, [*Hydra oligactis*](https://es.wikipedia.org/wiki/Hydra_oligactis#cite_ref-1) (although there are several species, there are no records of any other species of this genus), found attached to one of the substrate leaves.
+As of <strong><u>February 19, 2025</u></strong>, I made a discovery of what I believe to be a species not previously observed in the Canary Islands, or at least not recorded in the Canary Islands Biodiversity Database ([BIOCAN](https://www.biodiversidadcanarias.es/)). It is a species of the genus ***Hydra*** (there are a lot of *hydra* species so i will call it *Hydra sp.*), found attached to one of the substrate leaves.
 
 The water sample was collected at **Finca del Galeón in Santa Brígida**, Gran Canaria Island.
 
@@ -127,6 +127,25 @@ The water sample was collected at **Finca del Galeón in Santa Brígida**, Gran 
       <p style="font-size: 11px;"><i>Area with stagnant water where the water sample was taken.</i></p>
     </figcaption>
 </p>
+
+### Creating the footage.
+
+<div style="float: right; margin-left: 20px;">
+  <figure style="margin:0; text-align:center;">
+    <img
+      src="https://yt3.ggpht.com/QKyu3oIcWmstQXAGVNTvqTwggTv-1Bqj8S5bhgK7R7xTshhfYdDs4A2pIn-YPKsBe_Xb8Utclw=s600-c-k-c0x00ffffff-no-rj-rp-mo"
+      alt="Logo del canal: my first ecosphere"
+      width="175"
+      style="border-radius: 100px; display:block; margin:0 auto;"/>
+    <figcaption style="font-size:11px; margin-top:6px;">Logo of the channel, my first ecosphere</figcaption>
+  </figure>
+</div>
+
+I got a binocular magnifying glass and started creating footage of the samples around May. By the end of May, I finally got the microscope and tools, so I set up my lab. After recording some footage and learning to use software for video and audio editing (OpenShot, Audacity, Inkscape, etc.), I started my YouTube channel (link below).
+
+* @[BioFrikadas](https://www.youtube.com/@BioFrikadas/)
+
+Right now, I’m focusing on making Shorts, and eventually, I’d like to create more elaborate content.
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 

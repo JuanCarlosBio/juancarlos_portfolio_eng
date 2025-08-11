@@ -44,7 +44,7 @@ body {
   
   * **Institution**: <i><u>Loro Parque Group</u></i>.
 
-  * **Role**: Conservation Officer.
+  * **Role**: 🐌 Conservation Officer, at the Center for Survival Species of the Macaronesia (CSSM), Loro Parque Fundación.
 
 * **Jan 2024 - Jan 2025**: Technical Environmental Service. 
 
@@ -61,12 +61,25 @@ body {
   * **Role**: 🐁 Animal research facility Technician.
 
 <p align= "center">
-  <img src="https://pbs.twimg.com/profile_images/1561716451173621760/kLELmYdp_400x400.jpg" width="70px"> <img src="https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2015/07/LOGOSEGAI-transparencia-2014.png" width="150px"><img src="https://media.licdn.com/dms/image/v2/C4D0BAQGqSNC1jMsVMw/company-logo_200_200/company-logo_200_200/0/1630564264676/loroparque_logo?e=1753315200&v=beta&t=q3U7BzGp0N48PQhQqZ9ClDIBXxNwRV1zuFP0vwvP0Iw" width="70px"><img src="https://www.loroparque-fundacion.org/app/uploads/2024/08/logocalidadfundacionpng30.webp" width="150px"><img src="https://panorama.solutions/sites/default/files/2024-09/image-6.jpg" width="150px">  
+  <img src="https://pbs.twimg.com/profile_images/1561716451173621760/kLELmYdp_400x400.jpg" width="70px"> <img src="https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2015/07/LOGOSEGAI-transparencia-2014.png" width="150px"> <img src="https://www.loroparque-fundacion.org/app/uploads/2024/08/logocalidadfundacionpng30.webp" width="150px"><img src="https://panorama.solutions/sites/default/files/2024-09/image-6.jpg" width="150px">  
 </p>
 
 If you want to learn more about my experience go to the page: [***"Experience"***](https://juancarlosbio.github.io/juancarlos_portfolio_eng/experience/) 
 
-### Other experience: 👩‍💻 <u>Programmer</u> 
+## <u>Other experience:</u> ‍
+
+### Feb 2025 - PRESENT Content Creator Environmental Microbiology
+
+<div style="float: right; margin-left: 20px;">
+  <img src="https://yt3.ggpht.com/QKyu3oIcWmstQXAGVNTvqTwggTv-1Bqj8S5bhgK7R7xTshhfYdDs4A2pIn-YPKsBe_Xb8Utclw=s600-c-k-c0x00ffffff-no-rj-rp-mo" width="50px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/YouTube_full-color_icon_%282024%29.svg/120px-YouTube_full-color_icon_%282024%29.svg.png" width="70px">  
+</div>
+
+I’ve set up a home-based laboratory, where I analyze environmental water and substrate samples, filming the process for my YouTube channel about microbes.
+
+* Name of the channel: [@BioFrikadas](https://www.youtube.com/@BioFrikadas) 
+
+### 2021 - PRESENT 💻 <u>Programmer</u>
 
 As a passionate computer science enthusiast, I have dedicated myself to working on IT and data analysis projects, which have been valuable both throughout my studies and in complementing my professional work:
 
@@ -76,8 +89,7 @@ As a passionate computer science enthusiast, I have dedicated myself to working 
 
 * *"Play is the highest form of research." - Albert Einstein*
 * 2021 - Present: Programming and Data Analysis Projects in my GitHub [**GitHub**](https://github.com/JuanCarlosBio)
-
-Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](https://juancarlosbio.github.io/juancarlos_portfolio_eng/projects/)
+* Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](https://juancarlosbio.github.io/juancarlos_portfolio_eng/projects/)
 
 <hr style="border: 1px solid #ededed; margin: 20px 0;">
 
@@ -121,6 +133,7 @@ Some Interesting projects I've done so far in the page [**<i>"Projects"</i>**](h
             <li>Office software (Excel, Word, PPT...)</li>
             <li>Environment</li>
             <li>Animal healthcare</li>
+            <li>Laboratory</li>
             <li>Writing technical reports</li>
         </ul>
     </td>
